@@ -1,9 +1,11 @@
-# 💫 About Me:
-<br><br>👋 Hi, I’m Tammim Islam
+<p style="font-size:32px; font-weight:bold;">Hi, I’m Tammim Islam</p>
+
 <br><br>
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FFFB&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+Stack" />
 </p>
+
+# 💫 About Me:
 <br><br>I’m a passionate Full Stack Developer with a strong interest in building scalable, user-focused web applications. I work mainly with the MERN stack (MongoDB, Express.js, React, Node.js) and I’m currently learning Generative AI to integrate intelligent features into modern software systems.<br><br>I enjoy turning complex problems into simple, clean, and efficient solutions. I’m always exploring new technologies, improving my skills, and building projects that solve real-world problems
 
 
