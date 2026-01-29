@@ -1,5 +1,5 @@
 # 💫 About Me:
-)<br><br>👋 Hi, I’m Md. Tammim Islam<br><br>Full Stack Developer | MERN Stack | GenAI Learner<br><br>I’m a passionate Full Stack Developer with a strong interest in building scalable, user-focused web applications. I work mainly with the MERN stack (MongoDB, Express.js, React, Node.js) and I’m currently learning Generative AI to integrate intelligent features into modern software systems.<br><br>I enjoy turning complex problems into simple, clean, and efficient solutions. I’m always exploring new technologies, improving my skills, and building projects that solve real-world problems
+<br><br>👋 Hi, I’m Md. Tammim Islam<br><br>Full Stack Developer | MERN Stack<br><br>I’m a passionate Full Stack Developer with a strong interest in building scalable, user-focused web applications. I work mainly with the MERN stack (MongoDB, Express.js, React, Node.js) and I’m currently learning Generative AI to integrate intelligent features into modern software systems.<br><br>I enjoy turning complex problems into simple, clean, and efficient solutions. I’m always exploring new technologies, improving my skills, and building projects that solve real-world problems
 
 
 ## 🌐 Socials:
